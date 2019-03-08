@@ -78,7 +78,7 @@ git merge [branch_name] - слияние ветки branch_name с текущей веткой
 git branch -d [branch_name] - удаление локальной ветки branch_name
 
 
-git push origin --delete [branch_name] - удаление удаленной ветки branch_name
+git push origin --delete [branch_name] - удаление удаленной ветки branch_name 
 
 
 git branch - вывод списка всех имеющихся локальных веток на экран
